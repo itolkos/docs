@@ -3,4 +3,5 @@ theme:
   name: "material"
 nav:
   - Home: index.md
+  - 正则表达式: regex.md
   - About: about.md
